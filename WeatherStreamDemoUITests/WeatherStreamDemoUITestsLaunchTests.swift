@@ -1,10 +1,3 @@
-//
-//  WeatherStreamDemoUITestsLaunchTests.swift
-//  WeatherStreamDemoUITests
-//
-//  Created by Wesley Matlock on 9/26/25.
-//
-
 import XCTest
 
 final class WeatherStreamDemoUITestsLaunchTests: XCTestCase {
