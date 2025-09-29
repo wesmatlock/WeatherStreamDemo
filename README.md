@@ -80,7 +80,7 @@ Swap in your actual socket implementation later — this view model won’t even
 ## 📖 Related Blog Post
 
 This project was featured in:  
-📓 [AsyncSequence for Real-Time APIs: From Legacy Polling to Swift 6 Elegance](https://medium.com/@wesleymatlock/asyncsequence-for-real-time-apis-from-legacy-polling-to-swift-6-elegance-abc123)
+📓 [AsyncSequence for Real-Time APIs: From Legacy Polling to Swift 6 Elegance]([https://medium.com/@wesleymatlock/asyncsequence-for-real-time-apis-from-legacy-polling-to-swift-6-elegance-abc123](https://medium.com/@wesleymatlock/asyncsequence-for-real-time-apis-from-legacy-polling-to-swift-6-elegance-c2b8139c21e0))
 
 ---
 
